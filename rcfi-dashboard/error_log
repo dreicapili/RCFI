@@ -1,0 +1,36 @@
+[08-Feb-2020 13:51:17 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/namchijunior/courage-faith-inspire-marketing.namjr.com/application/views/dashboard/index.php on line 69
+[14-Feb-2020 15:05:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home2/namchijunior/courage-faith-inspire-marketing.namjr.com/application/models/System_model.php on line 261
+[14-Feb-2020 15:05:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home2/namchijunior/courage-faith-inspire-marketing.namjr.com/application/models/System_model.php on line 261
+[01-Sep-2020 06:46:33 Asia/Manila] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home2/namchijunior/rcouragefaithinspire.com/application/core/MY_Model.php on line 98
+[01-Sep-2020 06:46:33 Asia/Manila] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home2/namchijunior/rcouragefaithinspire.com/system/core/Exceptions.php on line 1
+[03-Sep-2020 16:16:52 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_result.php on line 223
+[03-Sep-2020 16:18:17 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1883
+[19-Oct-2020 17:53:39 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1843
+[29-Oct-2020 22:51:00 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1887
+[29-Oct-2020 22:54:19 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 621
+[03-Nov-2020 11:19:39 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1839
+[03-Nov-2020 11:29:30 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_result.php on line 276
+[03-Nov-2020 11:51:27 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_driver.php on line 307
+[03-Nov-2020 13:02:35 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1432
+[03-Nov-2020 13:04:48 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_driver.php on line 307
+[03-Nov-2020 13:07:16 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1538
+[03-Nov-2020 13:55:45 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 651
+[03-Nov-2020 13:57:26 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 654
+[03-Nov-2020 14:01:52 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_driver.php on line 307
+[06-Nov-2020 15:43:59 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 761
+[06-Nov-2020 15:45:30 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 2291
+[06-Nov-2020 15:47:02 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_driver.php on line 307
+[06-Nov-2020 15:48:32 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 703
+[06-Nov-2020 15:53:26 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/drivers/mysqli/mysqli_driver.php on line 307
+[07-Nov-2020 12:38:43 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 2756
+[07-Nov-2020 12:42:50 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1538
+[07-Nov-2020 12:45:33 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1426
+[07-Nov-2020 12:48:43 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 2442
+[07-Nov-2020 12:57:28 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 683
+[07-Nov-2020 12:59:21 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 621
+[07-Nov-2020 13:02:37 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1385
+[07-Nov-2020 13:47:27 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1881
+[07-Nov-2020 14:01:11 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/core/Model.php on line 73
+[07-Nov-2020 14:02:58 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_driver.php on line 1399
+[07-Nov-2020 14:08:55 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 2756
+[07-Nov-2020 14:10:40 Asia/Manila] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/namchijunior/rcouragefaithinspire.com/system/database/DB_query_builder.php on line 284

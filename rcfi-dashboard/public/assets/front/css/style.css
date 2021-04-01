@@ -1,0 +1,55 @@
+.gradient.gradient-primary-light {
+  background-image: linear-gradient(to right top, #012c68, #01f2e9);
+}
+.gradient.gradient-purple-blue {
+  background-image: linear-gradient(to right top, #012c68, #01f2e9);;
+}
+.text-primary {
+  color: #012c68 !important;
+}
+.navigation.navbar-sticky .btn-solid {
+  color: #ffffff;
+  background-color: #012c68;
+  border-color: #012c68;
+}
+.navigation.navbar-sticky .btn-outline {
+  color: #012c68;
+  border-color: #012c68;
+}
+.cls-1 {
+  fill: #012c68;
+}
+.gradient.gradient-primary-dark {
+  background-image: -webkit-gradient(linear, left bottom, right top, from(#5533ff), to(#161c2d));
+  background-image: linear-gradient(to right top, #01f2e9, #012c68);
+}
+.bg-dark {
+  background-color: #012c68 !important;
+}
+.btn-contrast {
+  color: #ffffff;
+  background-color: #012c68;
+  border-color: #012c68;
+}
+.badge-danger {
+  color: #ffffff;
+  background-color: #ed1c24;
+}
+.stroke-primary {
+  stroke: #0b0765;
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #012c68;
+  border-color: #012c68;
+}
+.badge-primary {
+  color: #ffffff;
+  background-color: #012c68;
+}
+.great-vibes{
+  font-family: 'great_vibesregular';
+}
+.bg-gray-overlay{
+  background-color:#f1f4f899
+}
