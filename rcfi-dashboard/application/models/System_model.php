@@ -1290,7 +1290,7 @@ class System_model extends MY_Model{
 				// $x = intval($row[0]['pairing_count']) % 5;
 				// echo $x;
 				// die(intval($row[0]['pairing_count']).' | '.$x);
-				if(intval($row[0]['pairing_count']) % 5 != 4 || intval($row[0]['pairing_count']) == 0){//EVERY 5FT PAIR GIVE GC
+				//removed GC if(intval($row[0]['pairing_count']) % 5 != 4 || intval($row[0]['pairing_count']) == 0){//EVERY 5FT PAIR GIVE GC
 					// print_r();die($id_main.'| '.$array_unique[$x].' gege');
 					//FOR PAIRING COMMISION 
 					if($array_values[$x] != 0){
@@ -1305,19 +1305,20 @@ class System_model extends MY_Model{
 						
 						$this->db->insert("main_money",$array_money[0]);
 					}
-				}else{
+				//removed GC}
+				//removed GCelse{
 					// die('b');
 					//FOR GIFT CHECK
-					if($array_values[$x] != 0){
-						$array_money[] = array(
-							'id_sponsorship' => $sponsorship_last_id,
-							'id_main' => $array_values[$x],
-							'type' => 'gift_check',
-							'cash' => 1,
-						);
-						$this->db->insert("main_money",$array_money[0]);
-					}
-				}
+				//removed GC	if($array_values[$x] != 0){
+				//removed GC		$array_money[] = array(
+				//removed GC			'id_sponsorship' => $sponsorship_last_id,
+				//removed GC			'id_main' => $array_values[$x],
+				//removed GC			'type' => 'gift_check',
+				//removed GC			'cash' => 1,
+				//removed GC		);
+				//removed GC		$this->db->insert("main_money",$array_money[0]);
+				//removed GC	}
+				//removed GC}
 	
 				//RESET ARRAY
 				$array_money = array();
